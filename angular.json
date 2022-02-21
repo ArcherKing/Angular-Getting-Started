@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GoGo"
+    }
+  },
+  "defaultProject": "GoGo",
+  "cli": {
+    "analytics": false
+  }
 }
